@@ -1,6 +1,6 @@
 
-# Ndidi
-# Engineering and Data Science
+# Hi, Ndidi
+## Engineering and Data Science
 ![Engineering and Data Science](https://lh3.googleusercontent.com/a-/AOh14GgdsKO25yNsu0RSzSm7w7TJmVNOYWRjNjTchp2b=s288-p-rw-no)
 
 
