@@ -12,7 +12,7 @@ I am Ndidi, a doctoral student at Virginia Tech. Though I am a Mechanical Engine
 
 
 
-- 🔭 I’m currently working on Programming with Python 
+- 🔭 I am working on Design of Exepriments with JMP and Programming with Python 
 - 🌱 I’m currently learning Data Structures and Machine Learning Algorithms 
 
 
