@@ -1,7 +1,9 @@
-![Engineering and Data Science](https://lh3.googleusercontent.com/a-/AOh14GgdsKO25yNsu0RSzSm7w7TJmVNOYWRjNjTchp2b=s288-p-rw-no)
 
 # Ndidi
 # Engineering and Data Science
+![Engineering and Data Science](https://lh3.googleusercontent.com/a-/AOh14GgdsKO25yNsu0RSzSm7w7TJmVNOYWRjNjTchp2b=s288-p-rw-no)
+
+
 I am Ndidi, a doctoral student at Virginia Tech. Though I am a Mechanical Engineering major, I recently discovered I have passion for working with data. I especially enjoy learning how to use Machine Learning algorithms to work with supervised or unsupervised learning datasets.
 
 ## Skills
