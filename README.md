@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-<!--
-**endidi20/endidi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ndidi, a doctoral student at Virginia Tech. Though I am a Mechanical Engineering major, I recently discovered I have passion for working with data.
+I especially enjoyed learning how to use Machine Learing algorithms to work with supervised or unsupervised learning datasets.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endidi20)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### 🌱 I’m currently working on Data science and Machine learning with JMP and Python, and hope to get feedback on improving uploaded projects.
-### 📫 How to reach me: endidi20@vt.edu
-### 😄 Pronouns: She/her/hers
-###⚡ Fun fact: A mechanical engineer interested in software and data science.
