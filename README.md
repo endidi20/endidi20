@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Ndidi
+#### Engineering and Data Science
+![Engineering and Data Science](https://lh3.googleusercontent.com/a-/AOh14GgdsKO25yNsu0RSzSm7w7TJmVNOYWRjNjTchp2b=s288-p-rw-no)
 
-I am Ndidi, a doctoral student at Virginia Tech. Though I am a Mechanical Engineering major, I recently discovered I have passion for working with data.
-I especially enjoy learning how to use Machine Learing algorithms to work with supervised or unsupervised learning datasets.
+I am Ndidi, a doctoral student at Virginia Tech. Though I am a Mechanical Engineering major, I recently discovered I have passion for working with data. I especially enjoy learning how to use Machine Learning algorithms to work with supervised or unsupervised learning datasets.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endidi20)](https://github.com/anuraghazra/github-readme-stats)
+Skills: JMP / Python
+
+- 🔭 I’m currently working on Programming with Python 
+- 🌱 I’m currently learning Data Structures and Machine Learning Algorithms 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/endidi20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/endidi20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ndidieyegheleme/)  
 
